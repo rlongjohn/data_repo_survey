@@ -1,0 +1,209 @@
+id,name,repo_url,end_date,english_ui,data_provider,db_access_closed,data_access_closed,upload_access_closed,versioning,pid_system,enhanced_pub,quality_management,domain
+r3d100000037,Oak Ridge National Laboratory Distributed Active Archive Center for Biogeochemical Dynamics,https://daac.ornl.gov/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,daac.ornl.gov
+r3d100000044,DRYAD,https://datadryad.org/stash,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,datadryad.org
+r3d100010050,Research Data Archive at NCAR,https://rda.ucar.edu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,rda.ucar.edu
+r3d100010061,Atmospheric Science Data Center,https://eosweb.larc.nasa.gov/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,eosweb.larc.nasa.gov
+r3d100010066,figshare,http://figshare.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,figshare.com
+r3d100010081,HEPData,https://hepdata.net/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,hepdata.net
+r3d100010129,PubChem,https://pubchem.ncbi.nlm.nih.gov/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,pubchem.ncbi.nlm.nih.gov
+r3d100010132,Multimodal Learning Corpus Exchange,http://lrl-diffusion.univ-bpclermont.fr/mulce2/accesCorpus/accesCorpusMulce.php,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,lrl-diffusion.univ-bpclermont.fr
+r3d100010159,"NASA Socioeconomic Data and Applications Center",https://sedac.ciesin.columbia.edu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,sedac.ciesin.columbia.edu
+r3d100010197,The Cambridge Structural Database,https://www.ccdc.cam.ac.uk/solutions/csd-system/components/csd/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.ccdc.cam.ac.uk
+r3d100010207,Center for International Earth Science Information Network,http://www.ciesin.columbia.edu/data.html,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.ciesin.columbia.edu
+r3d100010217,DataFirst,https://www.datafirst.uct.ac.za/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.datafirst.uct.ac.za
+r3d100010257,Health and Medical Care Archive,http://www.icpsr.umich.edu/icpsrweb/content/HMCA/index.html,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.icpsr.umich.edu
+r3d100010412,EarthChem Library,http://earthchem.org/library,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,earthchem.org
+r3d100010427,Forschungsdatenzentrum am IQB,https://www.iqb.hu-berlin.de/fdz,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.iqb.hu-berlin.de
+r3d100010469,Movebank Data Repository,https://www.datarepository.movebank.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.datarepository.movebank.org
+r3d100010473,myExperiment,https://www.myexperiment.org/home,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.myexperiment.org
+r3d100010474,International Food Policy Research Institute Dataverse,https://dataverse.harvard.edu/dataverse/IFPRI,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.harvard.edu
+r3d100010490,Finnish Social Science Data Archive,https://www.fsd.tuni.fi/en/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.fsd.tuni.fi
+r3d100010565,GWAS Central,http://www.gwascentral.org/index,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.gwascentral.org
+r3d100010570,PHI-base,http://www.phi-base.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.phi-base.org
+r3d100010641,MARGINS Data Portal,https://www.marine-geo.org/collections/#!/collection/MARGINS#summary,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.marine-geo.org
+r3d100010675,Interologous Interaction Database,http://ophid.utoronto.ca/ophidv2.204/index.jsp,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,ophid.utoronto.ca
+r3d100010683,HomoMINT,http://mint.bio.uniroma2.it/HomoMINT/Welcome.do,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,mint.bio.uniroma2.it
+r3d100010713,SAO/NASA Astrophysics Data System Dataverse,https://dataverse.harvard.edu/dataverse/ADS,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.harvard.edu
+r3d100010752,QUT Research Data Finder,https://researchdatafinder.qut.edu.au/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,researchdatafinder.qut.edu.au
+r3d100010859,World Register of Marine Species,http://www.marinespecies.org/index.php,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.marinespecies.org
+r3d100010863,FLOSSmole,https://flossmole.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,flossmole.org
+r3d100010864,Griffith University Research Data Repository,https://research-repository.griffith.edu.au/handle/10072/392601,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,research-repository.griffith.edu.au
+r3d100010891,Rhea,https://www.rhea-db.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.rhea-db.org
+r3d100010910,PDBj,https://pdbj.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,pdbj.org
+r3d100010928,British Antarctic Survey,https://www.bas.ac.uk/data/our-data/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.bas.ac.uk
+r3d100010951,Purdue University Research Repository,https://purr.purdue.edu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,purr.purdue.edu
+r3d100010976,ForestPlots.net,https://www.forestplots.net,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.forestplots.net
+r3d100010980,Clinical Trials Registry - India,http://ctri.nic.in/Clinicaltrials/login.php,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,ctri.nic.in
+r3d100011052,SABIO-RK,http://sabiork.h-its.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,sabiork.h-its.org
+r3d100011056,CISER Data & Reproduction Archive,https://ciser.cornell.edu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,ciser.cornell.edu
+r3d100011058,VertNet,http://vertnet.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,vertnet.org
+r3d100011062,GESIS SowiDataNet|datorium,https://data.gesis.org/sharing/#!Home,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.gesis.org
+r3d100011076,DIGITAL.CSIC,https://digital.csic.es/?locale=en,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,digital.csic.es
+r3d100011091,DepositOnce,https://depositonce.tu-berlin.de/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,depositonce.tu-berlin.de
+r3d100011216,KU ScholarWorks,https://kuscholarworks.ku.edu/dspace/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,kuscholarworks.ku.edu
+r3d100011235,PetDB,https://search.earthchem.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,search.earthchem.org
+r3d100011251,AfricaRice Dataverse,https://dataverse.harvard.edu/dataverse/africarice,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.harvard.edu
+r3d100011254,CfA Dataverses,https://dataverse.harvard.edu/dataverse/cfa,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.harvard.edu
+r3d100011271,COMPLETE Dataverse,https://dataverse.harvard.edu/dataverse/complete,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.harvard.edu
+r3d100011274,Deakin Research Online,https://dro.deakin.edu.au/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dro.deakin.edu.au
+r3d100011308,SPT Galaxy Cluster Followup Dataverse,https://dataverse.harvard.edu/dataverse/SPT_Clusters,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.harvard.edu
+r3d100011318,Washington State University Data Center Dataverse,https://dataverse.harvard.edu/dataverse.xhtml?alias=wsu,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.harvard.edu
+r3d100011319,World Agroforestry Centre - ICRAF Dataverse,https://dataverse.harvard.edu/dataverse/icraf,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.harvard.edu
+r3d100011375,Columbia University Academic Commons,https://academiccommons.columbia.edu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,academiccommons.columbia.edu
+r3d100011386,Digital Averroes Research Environment,https://dare.uni-koeln.de/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dare.uni-koeln.de
+r3d100011387,Edmond,https://edmond.mpdl.mpg.de,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,edmond.mpdl.mpg.de
+r3d100011393,Data Repository for the University of Minnesota,https://conservancy.umn.edu/handle/11299/166578,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,conservancy.umn.edu
+r3d100011397,AEKOS Data Portal,http://www.aekos.org.au/index.html#/home,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.aekos.org.au
+r3d100011521,UniProtKB,https://www.uniprot.org/uniprot/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.uniprot.org
+r3d100011554,Coherent X-ray Imaging Data Bank,https://cxidb.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,cxidb.org
+r3d100011559,The Cancer Imaging Archive,https://www.cancerimagingarchive.net/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.cancerimagingarchive.net
+r3d100011564,eagle-i,https://www.eagle-i.net/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.eagle-i.net
+r3d100011579,Antarctic Glaciological Data Center at NSIDC,http://nsidc.org/data/agdc/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,nsidc.org
+r3d100011583,NoMaD Repository & Archive,https://nomad-lab.eu/services/repo-arch,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,nomad-lab.eu
+r3d100011596,PhenoGen Informatics,https://phenogen.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,phenogen.org
+r3d100011601,Structural Biology Data Grid,https://data.sbgrid.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.sbgrid.org
+r3d100011623,TROLLing,https://trolling.uit.no,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,trolling.uit.no
+r3d100011635,EarthByte,https://www.earthbyte.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.earthbyte.org
+r3d100011647,IPK Gatersleben,https://www.ipk-gatersleben.de/en/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.ipk-gatersleben.de
+r3d100011674,My Geo Hub,https://mygeohub.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,mygeohub.org
+r3d100011675,"Natural History Museum, Data Portal",https://data.nhm.ac.uk/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.nhm.ac.uk
+r3d100011678,NIRD Research Data Archive,https://archive.sigma2.no/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,archive.sigma2.no
+r3d100011688,Collaborative Research Centre Transregio 32 Database,https://www.tr32db.uni-koeln.de/site/index.php,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.tr32db.uni-koeln.de
+r3d100011761,Neotoma Paleoecology Database,https://www.neotomadb.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.neotomadb.org
+r3d100011772,IMPACT,https://www.impactcybertrust.org/home#,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.impactcybertrust.org
+r3d100011800,LSHTM Data Compass,https://datacompass.lshtm.ac.uk/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,datacompass.lshtm.ac.uk
+r3d100011808,nanoHUB,https://nanohub.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,nanohub.org
+r3d100011836,Johns Hopkins Data Archive Dataverse Network,https://archive.data.jhu.edu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,archive.data.jhu.edu
+r3d100011849,Stemformatics,https://www.stemformatics.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.stemformatics.org
+r3d100011864,OpenKIM,https://openkim.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,openkim.org
+r3d100011867,SEANOE,https://www.seanoe.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.seanoe.org
+r3d100011874,RefractiveIndex.INFO,https://refractiveindex.info/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,refractiveindex.info
+r3d100011876,Plant Genomics and Phenomics Research Data Repository,http://edal-pgp.ipk-gatersleben.de/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,edal-pgp.ipk-gatersleben.de
+r3d100011880,CIAT Dataverse,https://dataverse.harvard.edu/dataverse/CIAT,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.harvard.edu
+r3d100011883,Open Exoplanet Catalogue,http://www.openexoplanetcatalogue.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.openexoplanetcatalogue.com
+r3d100011890,Ag Data Commons,https://data.nal.usda.gov,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.nal.usda.gov
+r3d100011896,THEREDA,https://www.thereda.de,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.thereda.de
+r3d100011903,Repository for Open Data (RepOD),https://repod.icm.edu.pl/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,repod.icm.edu.pl
+r3d100011914,IDEAS,https://ideas.repec.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,ideas.repec.org
+r3d100011915,Geothermal Data Repository,https://gdr.openei.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,gdr.openei.org
+r3d100011965,Imperial College Research Computing Service Data Repository,https://data.hpc.imperial.ac.uk/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.hpc.imperial.ac.uk
+r3d100012001,Illinois Data Bank,https://databank.illinois.edu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,databank.illinois.edu
+r3d100012013,TERN Data Discovery Portal,https://portal.tern.org.au,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,portal.tern.org.au
+r3d100012058,Biodiversity Exploratories Information System,https://www.bexis.uni-jena.de/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.bexis.uni-jena.de
+r3d100012061,Genomic Data Commons,https://portal.gdc.cancer.gov/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,portal.gdc.cancer.gov
+r3d100012074,BindingDB,http://bindingdb.org/bind/index.jsp,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,bindingdb.org
+r3d100012110,University of Auckland Data Repository,https://auckland.figshare.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,auckland.figshare.com
+r3d100012123,Monash Bridges,https://bridges.monash.edu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,bridges.monash.edu
+r3d100012124,ORDA - The University of Sheffield Research Data Catalogue and Repository,https://orda.shef.ac.uk/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,orda.shef.ac.uk
+r3d100012140,Brunel figshare,https://brunel.figshare.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,brunel.figshare.com
+r3d100012143,Loughborough Data Repository,https://repository.lboro.ac.uk/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,repository.lboro.ac.uk
+r3d100012144,University of Salford Data Repository,https://salford.figshare.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,salford.figshare.com
+r3d100012145,melbourne.figshare.com,https://melbourne.figshare.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,melbourne.figshare.com
+r3d100012146,St. Edward's University  institutional repository,https://stedwards.figshare.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,stedwards.figshare.com
+r3d100012147,Stockholm University Figshare Repository,https://su.figshare.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,su.figshare.com
+r3d100012155,ACU Research Bank,https://acuresearchbank.acu.edu.au/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,acuresearchbank.acu.edu.au
+r3d100012156,Open Research Data Online,https://ordo.open.ac.uk/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,ordo.open.ac.uk
+r3d100012168,PROFILES Registry,https://www.profilesregistry.nl/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.profilesregistry.nl
+r3d100012227,ResearchGate Data,https://www.researchgate.net/search/data,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.researchgate.net
+r3d100012232,Surrey Research Insight,https://epubs.surrey.ac.uk/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,epubs.surrey.ac.uk
+r3d100012266,ToxoDB,https://toxodb.org/toxo/app,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,toxodb.org
+r3d100012308,DesignSafe-CI Data Depot Repository,https://www.designsafe-ci.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.designsafe-ci.org
+r3d100012352,TreeGenes,https://treegenesdb.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,treegenesdb.org
+r3d100012356,Electron Microscopy Public Image Archive,https://www.ebi.ac.uk/empiar/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.ebi.ac.uk
+r3d100012369,Code Ocean,https://codeocean.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,codeocean.com
+r3d100012384,CaltechDATA,https://data.caltech.edu,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.caltech.edu
+r3d100012397,brainlife,https://brainlife.io,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,brainlife.io
+r3d100012403,TCCON Data Archive,https://tccondata.org,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,tccondata.org
+r3d100012439,GIN,https://web.gin.g-node.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,web.gin.g-node.org
+r3d100012440,DR-NTU (Data),https://researchdata.ntu.edu.sg/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,researchdata.ntu.edu.sg
+r3d100012447,MIDAS,https://www.midas.lt/public-app.html#/midas?lang=en,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.midas.lt
+r3d100012490,Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations,https://www-calipso.larc.nasa.gov/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www-calipso.larc.nasa.gov
+r3d100012493,Project on Human Development in Chicago Neighborhoods,https://www.icpsr.umich.edu/icpsrweb/PHDCN/index.jsp,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.icpsr.umich.edu
+r3d100012538,DataverseNO,https://dataverse.no/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.no
+r3d100012582,Base de Dados  Científicos da Universidade Federal do Paraná,https://bdc.c3sl.ufpr.br/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,bdc.c3sl.ufpr.br
+r3d100012587,EnviDat,https://www.envidat.ch/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.envidat.ch
+r3d100012593,JRC Data Catalogue,https://data.jrc.ec.europa.eu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.jrc.ec.europa.eu
+r3d100012604,AMS Acta,https://amsacta.unibo.it/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,amsacta.unibo.it
+r3d100012625,HydroShare,https://www.hydroshare.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.hydroshare.org
+r3d100012652,Health Atlas,https://www.health-atlas.de/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.health-atlas.de
+r3d100012693,OpenICPSR,https://www.openicpsr.org/openicpsr/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.openicpsr.org
+r3d100012695,ALSoD,https://alsod.ac.uk/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,alsod.ac.uk
+r3d100012696,DataShare: the Open Data Repository of Iowa State University,https://iastate.figshare.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,iastate.figshare.com
+r3d100012700,ALlele FREquency Database,https://alfred.med.yale.edu/alfred/index.asp,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,alfred.med.yale.edu
+r3d100012701,Donders Repository,https://data.donders.ru.nl/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.donders.ru.nl
+r3d100012814,University of Alberta Dataverse,https://dataverse.scholarsportal.info/dataverse/ualberta,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.scholarsportal.info
+r3d100012834,Deep Carbon Observatory Data Portal,https://info.deepcarbon.net/vivo/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,info.deepcarbon.net
+r3d100012866,CU Scholar,https://scholar.colorado.edu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,scholar.colorado.edu
+r3d100012901,Antimicrobial Peptide Database,http://aps.unmc.edu/AP/main.php,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,aps.unmc.edu
+r3d100012929,Oxford Brookes University: RADAR,https://radar.brookes.ac.uk/radar,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,radar.brookes.ac.uk
+r3d100012932,IIASA DARE,https://dare.iiasa.ac.at/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dare.iiasa.ac.at
+r3d100013053,ZFDM repository,https://www.fdm.uni-hamburg.de/en/fdm.html,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.fdm.uni-hamburg.de
+r3d100013079,ISRIC Soil Metadata Catalogue,https://data.isric.org,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.isric.org
+r3d100013086,Survey Research Data Archive,https://srda.sinica.edu.tw/index_en.php,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,srda.sinica.edu.tw
+r3d100013107,PsychArchives,https://www.psycharchives.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.psycharchives.org
+r3d100013154,Duke Research Data Repository,https://research.repository.duke.edu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,research.repository.duke.edu
+r3d100013171,DaRUS,https://darus.uni-stuttgart.de,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,darus.uni-stuttgart.de
+r3d100013177,ScienceDB,https://www.scidb.cn/en,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.scidb.cn
+r3d100013218,California Digital Library,https://cdlib.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,cdlib.org
+r3d100013227,Hakai Data,https://data.hakai.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.hakai.org
+r3d100013238,Bioconductor,https://www.bioconductor.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.bioconductor.org
+r3d100013257,Historical Data Centre Saxony-Anhalt,https://www.geschichte.uni-halle.de/struktur/hist-data/daten/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.geschichte.uni-halle.de
+r3d100013271,data.sciencespo,https://data.sciencespo.fr,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.sciencespo.fr
+r3d100013293,Cellosaurus,https://web.expasy.org/cellosaurus/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,web.expasy.org
+r3d100013294,Chinese Clinical Trial Register,https://www.chictr.org.cn/enIndex.aspx,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.chictr.org.cn
+r3d100013295,Complex Portal,https://www.ebi.ac.uk/complexportal/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.ebi.ac.uk
+r3d100013316,WikiPathways,http://wikipathways.org,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,wikipathways.org
+r3d100013333,BIRD,https://bird.unit.no/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,bird.unit.no
+r3d100013344,Peek,https://peek.rra.museum.kyoto-u.ac.jp/app/?ln=en,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,peek.rra.museum.kyoto-u.ac.jp
+r3d100013365,IAGOS Data Centre,http://www.iagos-data.fr/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.iagos-data.fr
+r3d100013366,Most Wiedzy Open Research Data Catalog,https://mostwiedzy.pl/en/open-research-data/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,mostwiedzy.pl
+r3d100013386,ACEnano,https://acenano.douglasconnect.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,acenano.douglasconnect.com
+r3d100013391,The University of Pittsburgh English Language Institute Corpus,https://github.com/ELI-Data-Mining-Group/PELIC-dataset,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,github.com
+r3d100013392,Geoscientific Data & Discovery Publishing Center,http://geodb.cgs.gov.cn/en,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,geodb.cgs.gov.cn
+r3d100013395,Dados Abertos De Pesquisas,https://dataverse.harvard.edu/dataverse/pesquisa-urt/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.harvard.edu
+r3d100013404,Copernicus Marine Environment Monitoring Service,https://marine.copernicus.eu/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,marine.copernicus.eu
+r3d100013433,Bicocca Open Archive Research Data,https://board.unimib.it/research-data/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,board.unimib.it
+r3d100013461,Canadian Open Neuroscience Platform Portal,https://portal.conp.ca,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,portal.conp.ca
+r3d100013469,EarthEnv,http://www.earthenv.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.earthenv.org
+r3d100013470,BonaRes Repository,https://datenzentrum.bonares.de/data-portal.php,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,datenzentrum.bonares.de
+r3d100013503,arthistoricum.net@heiDATA,https://heidata.uni-heidelberg.de/dataverse/arthistoricum,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,heidata.uni-heidelberg.de
+r3d100013507,Propylaeum@heiDATA,https://heidata.uni-heidelberg.de/dataverse/propylaeum,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,heidata.uni-heidelberg.de
+r3d100013512,Open Energy Platform,https://openenergy-platform.org/dataedit/schemas,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,openenergy-platform.org
+r3d100013525,Data@Lincoln,https://data.lincoln.ac.nz/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.lincoln.ac.nz
+r3d100013536,Collaborative Research Centre Transregio 228 Database,https://www.trr228db.uni-koeln.de,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.trr228db.uni-koeln.de
+r3d100013537,UCREA,https://repositorio.unican.es/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,repositorio.unican.es
+r3d100013550,Riga Stradins University  dataverse,https://dataverse.rsu.lv/dataverse/rsu,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.rsu.lv
+r3d100013557,TU Data,https://researchdata.tuwien.ac.at/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,researchdata.tuwien.ac.at
+r3d100013559,CORA. Repositori de Dades de Recerca,https://dataverse.csuc.cat/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dataverse.csuc.cat
+r3d100013569,Social Data Repository (RDS),https://rds.icm.edu.pl/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,rds.icm.edu.pl
+r3d100013574,Macromolecular Xtallography Raw Data Repository,https://mxrdr.icm.edu.pl/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,mxrdr.icm.edu.pl
+r3d100013575,OPAL,https://opal.latrobe.edu.au/Open_Data,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,opal.latrobe.edu.au
+r3d100013582,METIS,https://fmi.b2share.csc.fi,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,fmi.b2share.csc.fi
+r3d100013590,University of Manchester figshare,https://figshare.manchester.ac.uk/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,figshare.manchester.ac.uk
+r3d100013591,National Ecosystem Data Bank,http://ecodb.cern.ac.cn,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,ecodb.cern.ac.cn
+r3d100013602,University of Tasmania Research Data Portal,https://rdp.utas.edu.au,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,rdp.utas.edu.au
+r3d100013607,Radboud Data Repository,https://data.ru.nl,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.ru.nl
+r3d100013623,MHKDR,https://mhkdr.openei.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,mhkdr.openei.org
+r3d100013624,"NAWI Water DAMS",https://nawi.openei.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,nawi.openei.org
+r3d100013625,OEDI,https://data.openei.org/home,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.openei.org
+r3d100013626,ArkeoGIS,https://arkeogis.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,arkeogis.org
+r3d100013638,DANDI,https://dandiarchive.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,dandiarchive.org
+r3d100013639,Buildings Data Platform,https://bbd.labworks.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,bbd.labworks.org
+r3d100013645,TemplateFlow,https://templateflow.org,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,templateflow.org
+r3d100013650,Signaling Pathways Project,https://www.signalingpathways.org/datasets/index.jsf,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.signalingpathways.org
+r3d100013658,SciELO Data,https://data.scielo.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,data.scielo.org
+r3d100013660,Middlesex University Research Data Repository,https://mdx.figshare.com/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,mdx.figshare.com
+r3d100013677,J-STAGE Data,https://jstagedata.jst.go.jp/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,jstagedata.jst.go.jp
+r3d100013683,Netherlands Polar Data Center,https://npdc.nl,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,npdc.nl
+r3d100013702,OCTOPUS database,https://octopusdata.org,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,octopusdata.org
+r3d100013705,protocols.io,https://www.protocols.io/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.protocols.io
+r3d100013719,SPARC.Science,https://sparc.science,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,sparc.science
+r3d100013754,National Cryosphere Desert Data Center,http://www.ncdc.ac.cn,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.ncdc.ac.cn
+r3d100013758,National Omics Data Encyclopedia,https://www.biosino.org/node/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,www.biosino.org
+r3d100013808,Veterinar - Electronic Repository of Research and Scientific Papers,https://vet-erinar.vet.bg.ac.rs,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,vet-erinar.vet.bg.ac.rs
+r3d100013811,CeR – Central Repository ICTM,https://cer.ihtm.bg.ac.rs,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,cer.ihtm.bg.ac.rs
+r3d100013815,FishSounds,https://fishsounds.net/index.js,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,fishsounds.net
+r3d100013816,Portal of Medical Data Models,https://medical-data-models.org/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,medical-data-models.org
+r3d100013827,Open-source Scientific Software and Service Repository,http://purl.org/escape/ossr,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,purl.org
+r3d100013831,UNSWorks,https://unsworks.unsw.edu.au/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,unsworks.unsw.edu.au
+r3d100013833,osnaData,https://osnadata.ub.uni-osnabrueck.de/,,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,osnadata.ub.uni-osnabrueck.de
